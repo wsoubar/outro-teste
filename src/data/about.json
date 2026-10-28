@@ -1,0 +1,46 @@
+{
+  "name": "Seu Nome",
+  "role": "Desenvolvedor(a) Full Stack",
+  "tagline": "Transformando ideias em experiências digitais incríveis ✨",
+  "avatar": "https://i.pravatar.cc/300?img=47",
+  "coverImage": "https://picsum.photos/seed/devworkspace/1200/400",
+  "bio": [
+    "Sou apaixonado(a) por tecnologia e por criar soluções que fazem diferença na vida das pessoas. Com experiência em desenvolvimento web, busco sempre entregar código limpo e experiências memoráveis.",
+    "Quando não estou programando, gosto de explorar novas tecnologias, contribuir com projetos open source e compartilhar conhecimento com a comunidade."
+  ],
+  "skills": [
+    {
+      "category": "Frontend",
+      "items": ["React", "TypeScript", "Tailwind CSS", "Next.js", "Vue.js"]
+    },
+    {
+      "category": "Backend",
+      "items": ["Node.js", "Express", "PostgreSQL", "MongoDB", "REST APIs"]
+    },
+    {
+      "category": "Ferramentas",
+      "items": ["Git", "Docker", "AWS", "CI/CD", "Figma"]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Empresa A",
+      "role": "Desenvolvedor(a) Senior",
+      "period": "2023 - Presente",
+      "description": "Desenvolvimento de aplicações web com React e Node.js, liderando equipes e definindo arquiteturas."
+    },
+    {
+      "company": "Empresa B",
+      "role": "Desenvolvedor(a) Pleno",
+      "period": "2020 - 2023",
+      "description": "Atuação em projetos full-stack com foco em experiência do usuário e performance."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidade X",
+      "degree": "Ciência da Computação",
+      "period": "2016 - 2020"
+    }
+  ]
+}

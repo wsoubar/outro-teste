@@ -1,0 +1,22 @@
+[
+  {
+    "label": "GitHub",
+    "url": "https://github.com/seu-usuario",
+    "icon": "github"
+  },
+  {
+    "label": "LinkedIn",
+    "url": "https://linkedin.com/in/seu-usuario",
+    "icon": "linkedin"
+  },
+  {
+    "label": "Email",
+    "url": "mailto:seu@email.com",
+    "icon": "email"
+  },
+  {
+    "label": "Twitter",
+    "url": "https://twitter.com/seu-usuario",
+    "icon": "twitter"
+  }
+]

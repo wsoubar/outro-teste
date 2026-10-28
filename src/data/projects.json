@@ -1,0 +1,60 @@
+[
+  {
+    "id": "projeto-1",
+    "title": "E-commerce Moderno",
+    "description": "Plataforma completa de e-commerce com painel administrativo.",
+    "longDescription": "Uma plataforma de e-commerce desenvolvida com React, Node.js e PostgreSQL. Inclui sistema de autenticação, carrinho de compras, checkout com integração de pagamento e painel administrativo completo.",
+    "tags": ["React", "Node.js", "PostgreSQL", "Stripe"],
+    "image": "https://picsum.photos/seed/ecommerce/600/400",
+    "liveUrl": "https://exemplo.com",
+    "repoUrl": "https://github.com/seu-usuario/projeto",
+    "featured": true,
+    "year": "2024"
+  },
+  {
+    "id": "projeto-2",
+    "title": "App de Tarefas",
+    "description": "Aplicativo de gerenciamento de tarefas com drag and drop.",
+    "longDescription": "Aplicação de produtividade inspirada no Trello, com quadros Kanban, drag and drop, etiquetas, prazos e notificações. Desenvolvido com foco em UX e performance.",
+    "tags": ["React", "TypeScript", "Tailwind", "DnD"],
+    "image": "https://picsum.photos/seed/taskapp/600/400",
+    "liveUrl": "https://exemplo.com",
+    "repoUrl": "https://github.com/seu-usuario/projeto",
+    "featured": true,
+    "year": "2024"
+  },
+  {
+    "id": "projeto-3",
+    "title": "API REST",
+    "description": "API robusta com autenticação JWT e documentação Swagger.",
+    "longDescription": "API RESTful desenvolvida com Node.js e Express, com autenticação JWT, validação de dados, testes automatizados e documentação completa com Swagger.",
+    "tags": ["Node.js", "Express", "JWT", "Swagger"],
+    "image": "https://picsum.photos/seed/api-rest/600/400",
+    "repoUrl": "https://github.com/seu-usuario/projeto",
+    "featured": false,
+    "year": "2023"
+  },
+  {
+    "id": "projeto-4",
+    "title": "Dashboard Analytics",
+    "description": "Dashboard interativo com gráficos em tempo real.",
+    "longDescription": "Dashboard para visualização de dados em tempo real com gráficos interativos, filtros avançados e exportação de relatórios. Interface responsiva e acessível.",
+    "tags": ["React", "TypeScript", "Chart.js", "WebSocket"],
+    "image": "https://picsum.photos/seed/dashboard/600/400",
+    "liveUrl": "https://exemplo.com",
+    "featured": true,
+    "year": "2023"
+  },
+  {
+    "id": "projeto-5",
+    "title": "Blog Pessoal",
+    "description": "Blog com CMS headless e suporte a Markdown.",
+    "longDescription": "Blog pessoal desenvolvido com Next.js e um CMS headless, com suporte completo a Markdown, syntax highlighting, SEO otimizado e modo escuro.",
+    "tags": ["Next.js", "TypeScript", "MDX", "Tailwind"],
+    "image": "https://picsum.photos/seed/techblog/600/400",
+    "liveUrl": "https://exemplo.com",
+    "repoUrl": "https://github.com/seu-usuario/projeto",
+    "featured": false,
+    "year": "2023"
+  }
+]
